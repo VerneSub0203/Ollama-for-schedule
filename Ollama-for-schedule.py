@@ -18,7 +18,7 @@ while True:
     user_input = input("あなた: ")
     
     # 終了コマンド
-    if user_input == "終了":
+    if user_input == "End":
         print("\nシステムを終了します。お疲れ様でした。")
         break
         
