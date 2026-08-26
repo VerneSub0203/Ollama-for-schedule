@@ -20,6 +20,6 @@ PythonとOllama（`phi3`）を駆使し、認知負荷や圧倒感を防ぎな�
 **使い方**
 
 ```terminal
-python main.py
+python Ollama-for-schedule.py
 
 ```
